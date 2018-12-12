@@ -2,8 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.youngjung.kotiln_example">
 
+<<<<<<< HEAD
     <uses-permission android:name="android.permission.INTERNET"/>
     
+=======
+>>>>>>> bf40b3d78eb813fa8956bb3a5d86980e487e976b
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,7 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name="client.yalantis.com.githubclient.flow.repository.RepositoryDetailActivity"/>
+=======
+>>>>>>> bf40b3d78eb813fa8956bb3a5d86980e487e976b
     </application>
 
 </manifest>

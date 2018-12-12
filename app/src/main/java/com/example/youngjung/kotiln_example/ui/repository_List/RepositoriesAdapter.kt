@@ -1,5 +1,6 @@
 package com.example.youngjung.kotiln_example.ui.repository_List
 
+<<<<<<< HEAD
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -44,4 +45,7 @@ class RepositoriesAdapter(private val repositories: MutableList<Repository>,
     fun addRepositories(newRepositories: List<Repository>) {
         repositories.addAll(newRepositories)
     }
+=======
+class RepositoriesAdapter {
+>>>>>>> bf40b3d78eb813fa8956bb3a5d86980e487e976b
 }

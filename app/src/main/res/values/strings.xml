@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Kotiln_example</string>
+<<<<<<< HEAD
         <string name="name">Name : 1$s</string>
         <string name="created_at">Created at : 1$s</string>
         <string name="updated_at">Updated at : 1$s</string>
@@ -9,4 +10,6 @@
         <string name="internet_connection_unavailable">Internet connection unavailable</string>
         <string name="server_error">Server error</string>
         <string name="lbl_reload">Reload</string>
+=======
+>>>>>>> bf40b3d78eb813fa8956bb3a5d86980e487e976b
 </resources>
